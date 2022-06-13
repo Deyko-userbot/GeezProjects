@@ -551,11 +551,11 @@ with bot:
                 )
             else:
                 result = builder.article(
-                    title="⚡ GeezProjects ⚡",
-                    description="GeezProjects Ubot | Telethon",
-                    url="https://t.me/GeezSupport",
+                    title="⚡ Saiko-Userbot ⚡",
+                    description="SaikoProjects Ubot | Telethon",
+                    url="https://t.me/SaikoSupport",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text=f"**GeezProjects**\n➖➖➖➖➖➖➖➖➖➖\n**UserMode:** [{user.first_name}](tg://user?id={user.id})\n**Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @GeezProject\n➖➖➖➖➖➖➖➖➖➖",
+                    text=f"**SaikoProjects**\n➖➖➖➖➖➖➖➖➖➖\n**UserMode:** [{user.first_name}](tg://user?id={user.id})\n**Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @GeezProject\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/GeezSupport"),
