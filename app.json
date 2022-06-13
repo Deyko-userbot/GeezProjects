@@ -1,9 +1,9 @@
 {
-  "name": "Geez Userbot",
-  "description": "[GeezUserbot] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "name": "Saiko-Userbot",
+  "description": "[SaikoUserbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/02b3dbeb4df30582f0d66.jp",
-  "keywords": ["telegram", "userbot", "geezprojects", "modular", "python"],
-  "repository": "https://github.com/vckyou/GeezProjects",
+  "keywords": ["telegram", "userbot", "saikoprojects", "modular", "python"],
+  "repository": "https://github.com/Saiko/SaikoProjects",
   "stack": "container",
   "env": {
     "API_KEY": {
